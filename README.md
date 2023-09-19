@@ -1,87 +1,83 @@
 # Titulo del Proyecto
 
-One Paragraph of project description goes here
+Un párrafo de la descripción del proyecto va aquí.
 
-## Getting Started
+## Empezando
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Estas instrucciones le permitirán obtener una copia del proyecto en funcionamiento en su máquina local para fines de desarrollo y prueba. Consulte implementación para obtener notas sobre cómo implementar el proyecto en un sistema en vivo.
 
-### Prerequisites
+### Requisitos previos
 
-What things you need to install the software and how to install them
+Qué cosas necesitas para instalar el software y cómo instalarlas
 
 ```
 Give examples
 ```
 
-### Installing
+### Instalación
 
-A step by step series of examples that tell you how to get a development env running
+Una serie de ejemplos paso a paso que le indican cómo ejecutar un entorno de desarrollo.
 
-Say what the step will be
+Di cuál será el paso.
 
 ```
 Give the example
 ```
 
-And repeat
+Y repetir
 
 ```
 until finished
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
+Termine con un ejemplo de cómo sacar algunos datos del sistema o usarlos para una pequeña demostración.
 
-## Running the tests
+## Ejecutando las pruebas
 
-Explain how to run the automated tests for this system
+Explicar cómo ejecutar las pruebas automatizadas para este sistema.
 
-### Break down into end to end tests
+### Dividir en pruebas de principio a fin
 
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
+Explique qué prueban estas pruebas y por qué.
 
 ```
 Give an example
 ```
 
-## Deployment
+### Y pruebas de estilo de codificación.
 
-Add additional notes about how to deploy this on a live system
+Explique qué prueban estas pruebas y por qué.
 
-## Built With
+```
+Give an example
+```
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+## Despliegue (Deployment)
 
-## Contributing
+Agregue notas adicionales sobre cómo implementar esto en un sistema en vivo
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
-## Versioning
+## Construido con
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+Dropwizard : el marco web utilizado
+Maven - Gestión de dependencias
+ROMA : se utiliza para generar canales RSS
 
-## Authors
+## Versionado
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+Usamos Git para el control de versiones. Para conocer las versiones disponibles, consulte las etiquetas en este repositorio .
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+## Autores
 
-## License
+* **Billie Thompson** 
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
+## Licencia
 
-* Hat tip to anyone whose code was used
-* Inspiration
+Este proyecto tiene la licencia MIT; consulte el archivo LICENSE.md para obtener más detalles.
+
+## Expresiones de gratitud (Acknowledgments)
+
+* Un consejo para cualquiera cuyo código se haya utilizado
+* Inspiración
 * etc
