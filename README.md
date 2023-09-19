@@ -69,7 +69,7 @@ Usamos Git para el control de versiones. Para conocer las versiones disponibles,
 
 ## Autores
 
-* **Billie Thompson** 
+* **Gustavo Sánchez** 
 
 
 ## Licencia
