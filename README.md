@@ -1,6 +1,6 @@
-# Titulo del Proyecto
+# Proyecto de actualización de codigo en Java
+La finalidad de esta práctica es actualizar la información de todo el proyecto de forma colaborativa
 
-Un párrafo de la descripción del proyecto va aquí.
 
 ## Empezando
 
