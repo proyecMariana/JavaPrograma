@@ -83,7 +83,7 @@ public class HypercubePlot extends JPanel {
             }
         }
     }
-
+//Se realizo un cambio en el ciclo for ajutano operacions
     private void projectVertices45678() {
         projectedVertices45678 = new double[projectedVertices3D.length][5];
         double[][] rotationMatrix45678 = {
@@ -94,7 +94,7 @@ public class HypercubePlot extends JPanel {
         for (int i = 0; i < projectedVertices3D.length; i++) {
             for (int j = 0; j < 5; j++) {
                 for (int k = 0; k < 3; k++) {
-                    projectedVertices45678[i][j] += projectedVertices3D[i][k] * rotationMatrix45678[k][j];
+                    projectedVertices45678[i][j] += rotationMatrix45678[k][j];
                 }
             }
         }
