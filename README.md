@@ -5,10 +5,9 @@ La finalidad de esta práctica es actualizar la información de todo el proyecto
 ![Logo Java](https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png))
 
 # Titulo del Proyecto
->>>>>>> 5b5a252034dade8a8225013d5c890bd6dcfc6949
 
 
-## Empezando
+## Proposito del sitio
 
 Estas instrucciones le permitirán obtener una copia del proyecto en funcionamiento en su máquina local para fines de desarrollo y prueba. Consulte implementación para obtener notas sobre cómo implementar el proyecto en un sistema en vivo.
 
