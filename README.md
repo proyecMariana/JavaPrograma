@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Proyecto de actualización de codigo en Java
 La finalidad de esta práctica es actualizar la información de todo el proyecto de forma colaborativa
 =======
